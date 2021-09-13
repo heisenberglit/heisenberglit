@@ -2,7 +2,6 @@
 - 👀 I’m interested in blockchain development
 - 🌱 I’m currently learning Rust and Solidity for development
 - 💞️ I’m looking to collaborate on new projects in blockchain
-- 📫 How to reach me - Twitter - @Mmathur44592492
 
 <!---
 heisenberglit/heisenberglit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
